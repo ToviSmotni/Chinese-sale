@@ -3,7 +3,7 @@
 ברוכים הבאים למערכת לניהול מכירה סינית!  
 המערכת נבנתה כדי להקל על ניהול תהליך מכירה סינית, כולל רישום, רכישת כרטיסים, ניהול מתנות, והגרלת זוכים.  
 המערכת כוללת ממשק משתמש ידידותי, פונקציות חיפוש ותכונות ניהול מתקדמות.
-### Developed by Malki Applebaum ✍️
+### Developed by Tovi Smotni ✍️
 
 
 ## **צילומי מסך של האתר**
@@ -84,5 +84,5 @@
 ## **התקנה ושימוש**  
 - יש לשכפל את הריפו למחשב מקומי:  
   ```bash
-  git clone https://github.com/MalkiApplebaum/ChinessSaleAPP.git
+  git clone https://github.com/ToviSmotni/ChinessSaleAPP.git
 
